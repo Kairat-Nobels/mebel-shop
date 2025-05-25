@@ -7,8 +7,8 @@ const Footer = () => {
                 <span className='text-white'>Copyright © 2025 Furniture Store</span>
             </div>
             <div className="footer-right pt-2">
-                <span className='pe-1 text-white'>Made with</span>
-                <span className='fw-bold' style={{ color: "#78909c", cursor: "pointer" }} onClick={() => { window.open("https://github.com/Anrsgrl") }}>Anrsgrl</span>
+                <span className='pe-1 text-white'>Made by</span>
+                <span className='fw-bold' style={{ color: "#78909c", cursor: "pointer" }} onClick={() => { window.open("https://www.instagram.com/aitukv?igsh=MTJtMHZvZ3B2ZzVzcw%3D%3D&utm_source=qr ") }}>Developer</span>
             </div>
         </footer>
     )
