@@ -1,7 +1,7 @@
 import React from "react";
 import { Modal } from "rsuite";
 import { FaWhatsapp } from "react-icons/fa";
-import payment from "../../../../assets/images/payment.jpeg";
+import payment from "../../../../assets/images/payment2.png";
 import { useSelector } from "react-redux";
 import "rsuite/dist/rsuite.min.css";
 
