@@ -75,8 +75,13 @@ const HomeContact = () => {
                     Отправить
                 </button>
             </form>
-            <div className="mt-4 text-center">
+            {/* <div className="mt-4 text-center">
                 <a href="https://wa.me/996550789907" target="_blank" rel="noopener noreferrer" className="btn btn-success d-flex align-items-center justify-content-center gap-2">
+                    <FaWhatsapp /> WhatsApp
+                </a>
+            </div> */}
+            <div className="mt-4 text-center">
+                <a href="https://wa.me/996700762347" target="_blank" rel="noopener noreferrer" className="btn btn-success d-flex align-items-center justify-content-center gap-2">
                     <FaWhatsapp /> WhatsApp
                 </a>
             </div>

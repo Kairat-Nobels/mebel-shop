@@ -25,7 +25,8 @@ const PaymentModal = ({ isOpen, onClose, promoApplied, discount }) => {
       .join("\n") +
     `\n\nИтого: ${discountedPrice} сом${promoApplied ? " (со скидкой 20%)" : ""}`;
 
-  const whatsappLink = `https://wa.me/996709317635?text=${encodeURIComponent(
+
+  const whatsappLink = `https://wa.me/996700762347?text=${encodeURIComponent(
     orderText
   )}`;
 
